@@ -68,4 +68,21 @@ Para configurar o MongoDB, você deve adicionar as configurações de conexão n
    git clone https://github.com/SeuUsuario/SeuRepositorio.git
    ```
 
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd MinhaApi
+   ```
+3. Instale as dependências:
+   ```bash
+   dotnet restore
+   ```
+4.Execute a Aplicação
+  ```bash
+  dotnet run
+  ```
+
+
+
+
+
 
