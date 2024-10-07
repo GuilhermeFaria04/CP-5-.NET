@@ -76,7 +76,7 @@ Para configurar o MongoDB, você deve adicionar as configurações de conexão n
    ```bash
    dotnet restore
    ```
-4.Execute a Aplicação
+4. Execute a Aplicação
   ```bash
   dotnet run
   ```
