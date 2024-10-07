@@ -58,6 +58,7 @@ Para configurar o MongoDB, você deve adicionar as configurações de conexão n
     "DatabaseName": "seu_nome_do_banco"
   }
 }
+```
 
 ## Como Executar o Projeto
 
@@ -65,5 +66,6 @@ Para configurar o MongoDB, você deve adicionar as configurações de conexão n
 
    ```bash
    git clone https://github.com/SeuUsuario/SeuRepositorio.git
+   ```
 
 
