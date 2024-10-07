@@ -59,3 +59,11 @@ Para configurar o MongoDB, você deve adicionar as configurações de conexão n
   }
 }
 
+## Como Executar o Projeto
+
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/SeuUsuario/SeuRepositorio.git
+
+
